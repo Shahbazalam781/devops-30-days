@@ -22,6 +22,3 @@ hostname -I
 
 echo "CPU Information :"
 lscpu | grep -E '^Model name:|^CPU\(s\):[[:space:]]'
-
-echo "DEBUG MODE ENABLED"
-
