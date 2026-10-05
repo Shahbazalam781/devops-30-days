@@ -23,3 +23,5 @@ hostname -I
 echo "CPU Information :"
 lscpu | grep -E '^Model name:|^CPU\(s\):[[:space:]]'
 echo "Feature A - Docker Deployment"
+echo "Feature B - Kubernetes Deployment"
+
