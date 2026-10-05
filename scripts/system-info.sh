@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "===== PRODUCTION SYSTEM MONITOR  ====="
+echo "===== DEVOPS PRODUCTION SYSTEM MONITOR ====="
 
 echo "Hostname :"
 hostname
