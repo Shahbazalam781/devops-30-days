@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "===== System Information  ====="
+echo "===== DEVOPS SYSTEM MONITOR  ====="
 
 echo "Hostname :"
 hostname
