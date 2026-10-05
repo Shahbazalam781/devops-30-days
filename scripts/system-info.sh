@@ -17,4 +17,5 @@ free -h
 echo "Disk :"
 du -sh / 2>/dev/null
 
-
+echo "IP Address :"
+hostname -I
