@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "===== System Information  ====="
+echo "===== PRODUCTION SYSTEM MONITOR  ====="
 
 echo "Hostname :"
 hostname
