@@ -25,3 +25,4 @@ lscpu | grep -E '^Model name:|^CPU\(s\):[[:space:]]'
 echo "Feature A - Docker Deployment"
 echo "Feature B - Kubernetes Deployment"
 
+echo "DevOps Health Check: OK"
