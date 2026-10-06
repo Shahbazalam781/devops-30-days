@@ -24,3 +24,6 @@ df -Th / 2>/dev/null
 echo 
 echo "Listening Ports :"
 ss -tulnp
+
+echo
+
