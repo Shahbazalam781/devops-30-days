@@ -26,3 +26,5 @@ echo "Feature A - Docker Deployment"
 echo "Feature B - Kubernetes Deployment"
 
 echo "DevOps Health Check: OK"
+echo "Disk Health Check:"
+df -Th /
